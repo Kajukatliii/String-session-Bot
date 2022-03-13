@@ -54,7 +54,7 @@ Managed By @Alfrozen
 
 A telegram bot to retrieve pyrograms and telethon string sessions by @Alfrozen
 
-Group Support : [Supprt](https://t.me/AnimeChatAura)
+Group Support : [Supprt](https://t.me/ErinaSupport)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
